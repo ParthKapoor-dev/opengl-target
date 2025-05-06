@@ -99,9 +99,3 @@ g++ gungame.cpp -o gungame -lGL -lGLU -lglut -lGLEW -lm
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
-```
-
----
-
-Let me know if you want to include install instructions for Windows/macOS or expand with levels, sounds, or assets!
-```
